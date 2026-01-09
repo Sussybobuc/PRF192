@@ -4,4 +4,6 @@ int main(){
 	float b = 10.216;
 	printf("a=%.0f \nb=%.3f ",a , b);
 	printf("\n%.0f + %.3f = %.2f ", a,b, a + b);
+	return 0;
 }
+ 
