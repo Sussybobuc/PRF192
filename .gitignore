@@ -1,0 +1,15 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Debug folders
+Debug/
+Release/
