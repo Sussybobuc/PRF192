@@ -26,7 +26,7 @@ int main() {
 		printf("%-10.1f| %-10.1f| %-10.1f| %-10.1f\n|",CC, GK, CK, total);
 		printf("Ban da tot nghiep loai %c", Final);
 	} else {
-		printf("Ban ton them 5 trieu!!");
+		printf("Khong du dieu kien tot nghiep!");
 	}
 	return 0;
 }
